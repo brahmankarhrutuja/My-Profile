@@ -15,7 +15,7 @@ I'm a computer science student with a passion for web development. Welcome to my
 
 ### 🌐 Connect with Me
 
-<a href="https://www.linkedin.com/in/hrutuja-r-brahmankar-728030232/">LinkedIn</a>
-< href="https://twitter.com/HrutujaRB/"> Twitter</a>
+<a href="https://www.linkedin.com/in/hrutuja-r-brahmankar-728030232/">LinkedIn</a> <br>
+<a href="https://twitter.com/HrutujaRB/"> Twitter</a>
 
 Let's connect and learn together! Feel free to explore my repositories and provide feedback. Constructive criticism is always appreciated as I strive to improve and innovate.
