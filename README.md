@@ -9,9 +9,9 @@ I'm a computer science student with a passion for web development. Welcome to my
 
 ### 🛠️ Technologies and Tools
 
--HTML 
--CSS
--JavaScript
+-HTML <br>
+-CSS <br>
+-JavaScript <br>
 
 ### 🌐 Connect with Me
 
