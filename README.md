@@ -1,4 +1,4 @@
-# Hi there!!!!! I'm Hrutuja Rahul Brahmankar 👋
+# Hello! I'm Hrutuja Rahul Brahmankar 👋
 
 I'm a computer science student with a passion for web development. Welcome to my corner of GitHub, where I document my journey of learning and building web applications.
 
